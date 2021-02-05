@@ -14,9 +14,7 @@ csci3308_lab3_015_2
 UI edit : Brian
 Vim edit : Brian Noble
 =======
-<<<<<<< HEAD
-Odda Wako
-csci3308_lab3_015_2
+
 
 >>>>>>> 2bf485ec3cb8a9530e7afd66cb8212abbf398bd1
 UI edit : Brian
