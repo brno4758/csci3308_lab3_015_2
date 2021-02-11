@@ -9,6 +9,20 @@ Odda Wako
 Calvin Stoughton
 csci3308_lab3_015_2
 
+
+UI edit : Brian
+Vim edit : Brian Noble
+
+Odda Wako
+csci3308_lab3_015_2
+
+
+UI edit : Brian
+
+These are test lines
+I am adding to the file
+pull request by Odda
+
 "Project Team Members: "
 
 UI edit : Brian
@@ -40,3 +54,5 @@ Resolving calvin conflicts
 Resolving Dylan conflicts
 
 Resolving confilict by Odda
+
+Resolving Odda conflics - Dylan
