@@ -17,3 +17,14 @@ Vim edit : Brian Noble
 UI edit : Brian
 
 Pull Request by Dylan
+
+Odda Wako
+
+
+Calvin Stoughton
+Brian Noble
+Editing Calvin Branch
+
+Resolving calvin conflicts
+
+Resolving Dylan conflicts
